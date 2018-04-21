@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Apr 20 20:32:47 2018
-
-@author: Think
+本文是双孔隙土水曲线的拟合，文献参考是
+Dexter AR, Czyż EA, Richard G, Reszkowska A. A user-friendly water retention function that takes account of the textural and structural pore spaces in soil. Geoderma. 2008;143(3):243-53.
+@author: Fanxihui
 """
 import xlrd
 import numpy as np
